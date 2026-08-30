@@ -1,0 +1,9 @@
+"variable","available_n","missing_n","missing_percent"
+"age",3632,0,0
+"recreation_met_minutes",3630,2,0.1
+"log_recreation_met",3630,2,0.1
+"phq9_total",3187,445,12.3
+"cerad_learning",3131,501,13.8
+"cerad_delayed",3126,506,13.9
+"animal_fluency",3110,522,14.4
+"digit_symbol",3014,618,17

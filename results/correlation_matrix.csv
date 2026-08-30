@@ -1,0 +1,7 @@
+"","log_recreation_met","phq9_total","cerad_learning","cerad_delayed","animal_fluency","digit_symbol"
+"log_recreation_met",1,-0.15,0.12,0.12,0.19,0.23
+"phq9_total",-0.15,1,-0.09,-0.06,-0.12,-0.17
+"cerad_learning",0.12,-0.09,1,0.74,0.42,0.48
+"cerad_delayed",0.12,-0.06,0.74,1,0.4,0.47
+"animal_fluency",0.19,-0.12,0.42,0.4,1,0.51
+"digit_symbol",0.23,-0.17,0.48,0.47,0.51,1
