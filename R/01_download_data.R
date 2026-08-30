@@ -20,7 +20,7 @@ dir.create(
 for (file_code in file_codes) {
   message("Downloading ", file_code)
   
-  dataset <- nhanes(file_code)
+  dataset <- nhanes(file_code, translated = FALSE)
   
   saveRDS(
     dataset,
