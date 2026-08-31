@@ -2,9 +2,9 @@
 
 ## Overview
 
-This reproducible R project examines the relationships among physical activity, depressive symptoms, and cognitive performance among U.S. adults aged 60 and older using data from the 2011–2014 National Health and Nutrition Examination Survey (NHANES).
+This project examines the relationships among physical activity, depressive symptoms, and cognitive performance among U.S. adults aged 60 and older using data from the 2011–2014 National Health and Nutrition Examination Survey (NHANES).
 
-The planned structural equation model tests whether depressive symptoms partly mediate the association between recreational physical activity and cognitive functioning.
+A Structural Equation Model (SEM), Confirmatory Factor Analysis (CFA) tests whether depressive symptoms partly mediate the association between recreational physical activity and cognitive functioning.
 
 ## Research Questions
 
@@ -34,3 +34,7 @@ Work in progress.
 ## Author
 
 Jacob Markarian, M.A.
+
+## Disclaimer 
+
+I used Generative AI to help draft portions of the code and troubleshoot some errors. This project is a practice exercise that I am using to develop and demonstrate my skills in R and data analysis. I take responsibility for the analysis and interpretation. 
