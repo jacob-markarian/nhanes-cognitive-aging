@@ -1,0 +1,100 @@
+lavaan 0.6-18 ended normally after 26 iterations
+
+  Estimator                                         ML
+  Optimization method                           NLMINB
+  Number of model parameters                        12
+
+                                                  Used       Total
+  Number of observations                          3181        3632
+  Number of missing patterns                        11            
+
+Model Test User Model:
+                                              Standard      Scaled
+  Test Statistic                               343.654     327.300
+  Degrees of freedom                                 2           2
+  P-value (Chi-square)                           0.000       0.000
+  Scaling correction factor                                  1.050
+    Yuan-Bentler correction (Mplus variant)                       
+
+Model Test Baseline Model:
+
+  Test statistic                              4528.701    2919.224
+  Degrees of freedom                                 6           6
+  P-value                                        0.000       0.000
+  Scaling correction factor                                  1.551
+
+User Model versus Baseline Model:
+
+  Comparative Fit Index (CFI)                    0.924       0.888
+  Tucker-Lewis Index (TLI)                       0.773       0.665
+                                                                  
+  Robust Comparative Fit Index (CFI)                         0.923
+  Robust Tucker-Lewis Index (TLI)                            0.768
+
+Loglikelihood and Information Criteria:
+
+  Loglikelihood user model (H0)             -37171.686  -37171.686
+  Scaling correction factor                                  1.278
+      for the MLR correction                                      
+  Loglikelihood unrestricted model (H1)     -36999.859  -36999.859
+  Scaling correction factor                                  1.246
+      for the MLR correction                                      
+                                                                  
+  Akaike (AIC)                               74367.372   74367.372
+  Bayesian (BIC)                             74440.152   74440.152
+  Sample-size adjusted Bayesian (SABIC)      74402.023   74402.023
+
+Root Mean Square Error of Approximation:
+
+  RMSEA                                          0.232       0.226
+  90 Percent confidence interval - lower         0.211       0.206
+  90 Percent confidence interval - upper         0.253       0.247
+  P-value H_0: RMSEA <= 0.050                    0.000       0.000
+  P-value H_0: RMSEA >= 0.080                    1.000       1.000
+                                                                  
+  Robust RMSEA                                               0.242
+  90 Percent confidence interval - lower                     0.220
+  90 Percent confidence interval - upper                     0.264
+  P-value H_0: Robust RMSEA <= 0.050                         0.000
+  P-value H_0: Robust RMSEA >= 0.080                         1.000
+
+Standardized Root Mean Square Residual:
+
+  SRMR                                           0.059       0.059
+
+Parameter Estimates:
+
+  Standard errors                             Sandwich
+  Information bread                           Observed
+  Observed information based on                Hessian
+
+Latent Variables:
+                   Estimate  Std.Err  z-value  P(>|z|)   Std.lv  Std.all
+  cognition =~                                                          
+    cerad_learning    4.290    0.078   54.760    0.000    4.290    0.868
+    cerad_delayed     2.038    0.036   56.312    0.000    2.038    0.843
+    animal_fluency    2.895    0.107   27.046    0.000    2.895    0.520
+    digit_symbol     10.633    0.324   32.833    0.000   10.633    0.602
+
+Intercepts:
+                   Estimate  Std.Err  z-value  P(>|z|)   Std.lv  Std.all
+   .cerad_learning   18.528    0.088  210.039    0.000   18.528    3.749
+   .cerad_delayed     5.760    0.043  133.398    0.000    5.760    2.383
+   .animal_fluency   16.280    0.099  163.843    0.000   16.280    2.925
+   .digit_symbol     44.853    0.319  140.572    0.000   44.853    2.540
+
+Variances:
+                   Estimate  Std.Err  z-value  P(>|z|)   Std.lv  Std.all
+   .cerad_learning    6.022    0.540   11.161    0.000    6.022    0.247
+   .cerad_delayed     1.689    0.087   19.389    0.000    1.689    0.289
+   .animal_fluency   22.607    0.703   32.145    0.000   22.607    0.730
+   .digit_symbol    198.886    5.800   34.292    0.000  198.886    0.638
+    cognition         1.000                               1.000    1.000
+
+R-Square:
+                   Estimate
+    cerad_learning    0.753
+    cerad_delayed     0.711
+    animal_fluency    0.270
+    digit_symbol      0.362
+

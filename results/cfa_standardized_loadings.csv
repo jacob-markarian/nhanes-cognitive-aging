@@ -1,0 +1,5 @@
+"latent_variable","indicator","standardized_loading","standard_error","z_value","p_value"
+"cognition","cerad_learning",0.868,0.012,74.845,0
+"cognition","cerad_delayed",0.843,0.009,94.263,0
+"cognition","animal_fluency",0.52,0.016,32.552,0
+"cognition","digit_symbol",0.602,0.015,41.208,0
