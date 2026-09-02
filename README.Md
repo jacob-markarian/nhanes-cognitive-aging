@@ -12,13 +12,13 @@ A Structural Equation Model (SEM), Confirmatory Factor Analysis (CFA) tests whet
 2. Are fewer depressive symptoms associated with better cognitive performance?
 3. Is physical activity indirectly associated with cognition through depressive symptoms?
 
-## Planned Measures
+##  Measures
 
 - **Exposure:** Recreational physical activity
 - **Mediator:** PHQ-9 depressive-symptom score
 - **Outcome:** Latent cognitive-function factor measured using available NHANES cognitive tests
 
-## Planned Analysis
+##  Analysis
 
 Analyses will be conducted in R using descriptive statistics, data visualization, and structural equation modeling. Appropriate NHANES sampling weights will be incorporated where feasible.
 
