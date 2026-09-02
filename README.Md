@@ -17,7 +17,6 @@ A Structural Equation Model (SEM), Confirmatory Factor Analysis (CFA) tests whet
 - **Exposure:** Recreational physical activity
 - **Mediator:** PHQ-9 depressive-symptom score
 - **Outcome:** Latent cognitive-function factor measured using available NHANES cognitive tests
-- **Covariates:** Age, sex, and educational attainment
 
 ## Planned Analysis
 
