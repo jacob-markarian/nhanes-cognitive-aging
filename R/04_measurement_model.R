@@ -234,3 +234,5 @@ capture.output(
  #This model has very good fit indices, however, this was predictable as the 
  #original model had only a few degrees of freedom. Our fit indices are nearly 
  #perfect in some instances. We can stop here. 
+
+
